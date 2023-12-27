@@ -1,5 +1,7 @@
 # ML_Classification
 
+**[Dataset](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition) - Estimation of obesity levels based on eating habits and physical condition**
+
 >This dataset include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition. 77% of the data was generated synthetically using the Weka tool and the SMOTE filter, 23% of the data was collected directly from users through a web platform.
 
 >Instances: 2111
