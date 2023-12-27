@@ -1,13 +1,5 @@
 # ML_Classification
 
-
-1. Detaljno se upoznati sa različitim algoritmima za klasifikaciju i regresiju
-2. Izabrati odgovarajući skup podataka i definisati problem na koji se mogu primeniti algoritmi za regresiju i klasifikaciju
-3. Skup podataka primeniti u skladu sa obrađenim tehnikama za Pripremu podataka i Deskriptivnu analizu.
-4. Izabrati nekoliko ponuđenih algoritama za rešavanje problema i uporediti dobijene rezultate.
-5. Optimizovati hiperparametre izabranih algoritama mašinskog učenja
-6. Izvršiti analizu dobijenih rezultata i pripremti detaljnu diskusiju.
-
 >This dataset include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition. 77% of the data was generated synthetically using the Weka tool and the SMOTE filter, 23% of the data was collected directly from users through a web platform.
 
 >Instances: 2111
